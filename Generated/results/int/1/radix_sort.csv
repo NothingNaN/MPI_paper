@@ -1,0 +1,14 @@
+lists,10^1,10^2,10^3,10^4,10^5,10^6,10^7,10^8
+10batch,31.4991
+half_sorted,49.5754
+n&p,32.8164
+n,11.2488
+only3,8.31e-07
+p,21.6489
+r_half_sorted,26.9229
+r_sorted,24.1057
+r_sorted_10batch,17.1209
+r_sorted_only3,1.503e-06
+sorted,23.5699
+sorted_10batch,16.9824
+sorted_only3,8.72e-07
